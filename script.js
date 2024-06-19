@@ -1,39 +1,39 @@
 const perguntas = [
 {
-enunciado: "qual sua cor favorita?",
+enunciado: "Qual sua cor favorita?",
 alternativas: [
-"azul",
-"rosa"
+"Azul",
+"Rosa"
 ]
 },
 {
-enunciado: " qual filme você prefere?",
+enunciado: "Qual filme você prefere?",
 alternativas: [
 "Sherek",
 "Toy Story"
 ]
 },
 {
-enunciado: "qual período do dia você mais gosta?",
+enunciado: "Qual período do dia você mais gosta?",
 alternativas: [
-"manhã",
-"tarde",
-"noite"
+"Manhã",
+"Tarde",
+"Noite"
 ]
 },
 {
-enunciado: "bebida favorita?",
+enunciado: "Bebida favorita?",
 alternativas: [
-"café",
-"refrigerante"
+"Ccafé",
+"Refrigerante"
 ]
 
 },
 {
-enunciado: "qual viagem você gosta?",
+enunciado: "Qual viagem você gosta?",
 alternativas: [
-"praia",
-"natureza"
+"Praia",
+"Natureza"
 ]
 }
 ];
